@@ -1,0 +1,7 @@
+To run a SPDY server:
+
+    ./spdytest.sh server <port>
+
+To run a SPDY telnet client:
+
+    ./spdytest.sh client <URL>
